@@ -15,7 +15,7 @@ source=('naga.c'
         'naga-dkms.install'
         'Makefile'
 )
-sha256sums=('2f1fd63bc0b45d51de5f9a5e10baa8a779b009f51ae7bc3af1e22e8c53454014'
+sha256sums=('e6e5100a45ea5583e946e73be26d59e66605e337ab38dcd222b60bbfac59101b'
             'bc05aa364ff818d1c7d06a0afd68793aae2c01997441b780aef81e304584ef76'
             '93b93b6e453a1f2b31a0db956d259a5d2142a75f930e01502c38c0fedbfe272b'
             'e49974880fe56036f35a3c5dd51d870cb74a0317a0aee8139156a0974c33ac13')
